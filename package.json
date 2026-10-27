@@ -1,0 +1,15 @@
+{
+  "name": "herb",
+  "version": "1.0.14",
+  "description": "Herb — Ritual & Telemetry Flutter Mobile & Web Application",
+  "private": true,
+  "scripts": {
+    "build": "/home/heidless/projects/SuiteUtils/herb-ctl.sh build web",
+    "build:web": "/home/heidless/projects/SuiteUtils/herb-ctl.sh build web",
+    "build:apk": "/home/heidless/projects/SuiteUtils/herb-ctl.sh build debug",
+    "build:debug": "/home/heidless/projects/SuiteUtils/herb-ctl.sh build debug",
+    "build:android": "/home/heidless/projects/SuiteUtils/herb-ctl.sh build debug",
+    "build:release": "/home/heidless/projects/SuiteUtils/herb-ctl.sh build release",
+    "deploy": "/home/heidless/projects/SuiteUtils/herb-ctl.sh deploy"
+  }
+}

@@ -1,0 +1,5 @@
+package com.heidless.herb.herb_app
+
+import io.flutter.embedding.android.FlutterFragmentActivity
+
+class MainActivity : FlutterFragmentActivity()

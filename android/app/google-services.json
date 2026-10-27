@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "21782395147",
+    "project_id": "stillwater-sovereign-04",
+    "storage_bucket": "stillwater-sovereign-04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21782395147:android:501ec66d412c920c03ca0e",
+        "android_client_info": {
+          "package_name": "com.example.herb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21782395147-aa4mrc5un7ed6vfgbmug1t89937c0kqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamDJj1PIhbODHeXvxqt3m0pw2OMKz7V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21782395147-aa4mrc5un7ed6vfgbmug1t89937c0kqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21782395147:android:6b0219cece7d5d6703ca0e",
+        "android_client_info": {
+          "package_name": "com.heidless.herb.herb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21782395147-aa4mrc5un7ed6vfgbmug1t89937c0kqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamDJj1PIhbODHeXvxqt3m0pw2OMKz7V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21782395147-aa4mrc5un7ed6vfgbmug1t89937c0kqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
